@@ -3,9 +3,12 @@ https://github.com/nitishvig007/Batch_April22/tree/main
 Fork->creating a copy from unknown GitHub account to your GitHub account
 Fetch and upstream->apply the changes that were done in master GitHub account from where you forked
 
-git config --global user.name "yourUserName"git config --global user.email "yourEmail"
+git config --global user.name "yourUserName"
+git config --global user.email "yourEmail"
 
 1)git init
 2) git add 
 3) git commit
 4) git push
+
+knowledge hub
